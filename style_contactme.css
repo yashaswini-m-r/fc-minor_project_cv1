@@ -1,0 +1,64 @@
+
+body  {background-color: #FBE5E5;}
+/* h3 {color: #03045E;} */
+h1 {color: #03045E;}
+
+hr {
+  border-top: 4px dotted red ;
+ }
+
+ input[type=text] {
+
+  padding:6px 10px;
+  /* margin: 8px 0; */
+
+  border: 1px solid #3E497A;
+  /* background-color: #3CBC8D;
+  color: white; */
+}
+
+input[type=email] {
+
+ padding:6px 10px;
+ /* margin: 8px 0; */
+
+ border: 1px solid #3E497A;
+ /* background-color: #3CBC8D;
+ color: white; */
+}
+
+input[type=date] {
+
+ padding:6px 10px;
+ /* margin: 8px 0; */
+
+ border: 1px solid #3E497A;
+ /* background-color: #3CBC8D;
+ color: white; */
+}
+
+/* input[type=file] {
+
+ padding:6px 10px;
+ margin: 8px 0;
+
+ border: 1px solid red;
+  background-color: #3CBC8D;
+ color: white;
+}  */
+
+input[type=Message] {
+
+  border: 1px solid #3E497A;
+
+}
+
+input[type=submit] {
+
+ padding:6px 10px;
+ /* margin: 8px 0; */
+
+ /* border: 1px solid red; */
+ background-color: #3E497A;
+ color: white;
+}
